@@ -2,7 +2,7 @@
 I am an AI Engineer based in Saudi Arabia's Eastern Province, building production Computer Vision systems and Retrieval-Augmented Generation (RAG) pipelines. My current work spans real-time object detection for CCTV surveillance (HARIS) and legal document retrieval for Saudi law firms (Adalah). I publish architecture write-ups and case studies at [turkialshuaibi.com](https://turkialshuaibi.com/).
 
 ### 🌐 Portfolio & Case Studies
-Architecture write-ups, system breakdowns, and live demos: **[turkialshuaibi.com](https://turkialshuaibi.com/)**
+Architecture write-ups, system breakdowns, and live demos: [AI Engineer Turki Alshuaibi's Computer Vision Portfolio](https://turkialshuaibi.com).
 
 ### ⚙️ Engineering Focus & Projects
 * **Computer Vision (HARIS):** Leading a multi-stage real-time hostile activity recognition pipeline for CCTV networks using object detection models.
