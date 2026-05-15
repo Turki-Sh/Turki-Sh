@@ -22,8 +22,8 @@ Architecture write-ups, system breakdowns, and live demos: **[turkialshuaibi.com
 
 ### 📊 GitHub Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Turki-Sh&show_icons=true&theme=transparent&hide_border=true&title_color=EAB308&text_color=A3A3A3&icon_color=EAB308" height="150" alt="Turki's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turki-Sh&layout=compact&theme=transparent&hide_border=true&title_color=EAB308&text_color=A3A3A3" height="150" alt="Turki's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Turki-Sh&show_icons=true&hide_border=true&bg_color=00000000&title_color=EAB308&text_color=A3A3A3&icon_color=EAB308" height="150" alt="Turki's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turki-Sh&layout=compact&hide_border=true&bg_color=00000000&title_color=EAB308&text_color=A3A3A3" height="150" alt="Turki's Top Languages" />
 </p>
 
 ### 📫 Connect & Developer Ecosystem
