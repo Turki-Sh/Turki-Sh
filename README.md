@@ -20,12 +20,6 @@ Architecture write-ups, system breakdowns, and live demos: **[turkialshuaibi.com
 * **Technical Mentor & Expert**, ByteBank FinTech Hackathon & Live 80 Hackathon
 * **Certifications**, Harvard CS50 AI, NVIDIA Transformer NLP, DeepLearning.AI Math for ML
 
-### 📊 GitHub Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Turki-Sh&show_icons=true&hide_border=true&bg_color=00000000&title_color=EAB308&text_color=A3A3A3&icon_color=EAB308" height="150" alt="Turki's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Turki-Sh&layout=compact&hide_border=true&bg_color=00000000&title_color=EAB308&text_color=A3A3A3" height="150" alt="Turki's Top Languages" />
-</p>
-
 ### 📫 Connect & Developer Ecosystem
 * **Website:** [turkialshuaibi.com](https://turkialshuaibi.com/)
 * **Email:** [turki@turkialshuaibi.com](mailto:turki@turkialshuaibi.com)
