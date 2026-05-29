@@ -29,4 +29,6 @@ Architecture write-ups, system breakdowns, and live demos: [AI Engineer Turki Al
 * **Kaggle:** [kaggle.com/turkikhalidalshuaibi](https://www.kaggle.com/turkikhalidalshuaibi)
 * **Hashnode:** [hashnode.com/@turkialshuaibi](https://hashnode.com/@turkialshuaibi)
 * **Peerlist:** [peerlist.io/turkialshuaibi](https://peerlist.io/turkialshuaibi)
-* **Github:** [https://github.com/Turki-Sh](https://github.com/Turki-Sh)
+* **Github:** [github.com/Turki-Sh](https://github.com/Turki-Sh)
+* **Reddit:** [reddit.com/user/Turki_Alshuaibi/](https://www.reddit.com/user/Turki_Alshuaibi/)
+* **SubReddit:** [reddit.com/r/TurkiAlshuaibi/](https://www.reddit.com/r/TurkiAlshuaibi/)
