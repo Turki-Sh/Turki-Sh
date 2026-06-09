@@ -9,7 +9,7 @@ I am an AI Engineer based in Saudi Arabia's Eastern Province, building productio
 ### ⚙️ Engineering Focus & Projects
 
 * **Computer Vision (HARIS):** Led a multi-stage real-time hostile activity recognition pipeline for CCTV networks using object detection models.
-* **Applied AI & RAG (Adalah):** Built the retrieval-augmented generation pipeline for an AI-powered LegalTech platform serving Saudi law firms.
+* **Applied AI & RAG (Adalah):** Led QA and evaluation for the retrieval-augmented generation pipeline of an AI-powered LegalTech platform serving Saudi law firms.
 * **System Architecture:** Ran end-to-end API and database-layer validation using Postman and PgAdmin to ensure robust model integration.
 
 ### 🛠️ Technical Stack
