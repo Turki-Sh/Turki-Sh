@@ -94,3 +94,5 @@ Selected for a highly competitive AI specialization program. Achieved first plac
 [![Peerlist](https://img.shields.io/badge/Peerlist-turkialshuaibi-00AA45?style=flat&logo=peerlist&logoColor=white)](https://peerlist.io/turkialshuaibi)
 [![X](https://img.shields.io/badge/X-@turkialshuaibi-000000?style=flat&logo=x&logoColor=white)](https://x.com/turkialshuaibi)
 [![ORCID](https://img.shields.io/badge/ORCID-Research_Profile-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-7476-9170)
+[![YouTube](https://img.shields.io/badge/YouTube-@TurkiAlshuaibi-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TurkiAlshuaibi)
+[![TikTok](https://img.shields.io/badge/TikTok-@turki__alshuaibi-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@turki_alshuaibi)
