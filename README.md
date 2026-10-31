@@ -97,3 +97,4 @@ Selected for a highly competitive AI specialization program. Achieved first plac
 [![YouTube](https://img.shields.io/badge/YouTube-@TurkiAlshuaibi-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@TurkiAlshuaibi)
 [![TikTok](https://img.shields.io/badge/TikTok-@turki__alshuaibi-000000?style=flat&logo=tiktok&logoColor=white)](https://www.tiktok.com/@turki_alshuaibi)
 [![Behance](https://img.shields.io/badge/Behance-Design_Portfolio-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/turkialshuaibi)
+[![Instagram](https://img.shields.io/badge/Instagram-@turkialshuaibi-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/turkialshuaibi/)
